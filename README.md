@@ -103,3 +103,5 @@ date. There should be four PNG files and four R code files.
 
 
 The four plots that you will need to construct are shown below. 
+
+![Plotting 4 pre-defined plots](https://github.com/jackatkott/Coursera-JHU-Exploratory-Data-Analysis-Course-Project-1-/blob/master/4_pre_defined_plots.gif)
