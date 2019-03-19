@@ -38,7 +38,7 @@ datetime <- paste(as.Date(data$Date), data$Time)
 data$Datetime <- as.POSIXct(datetime)
 
 ##############################################################################
-# STEP 4 - Plotting
+# STEP 4 - Generate the plot
 ##############################################################################
 
 plot(data$Global_active_power~data$Datetime, type="l",
