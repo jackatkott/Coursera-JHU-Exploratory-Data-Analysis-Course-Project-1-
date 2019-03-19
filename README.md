@@ -1,7 +1,8 @@
 ![Exploratory Data Analysis Course Project from JHU by Coursera](https://github.com/jackatkott/Coursera-JHU-Exploratory-Data-Analysis-Course-Project-1-/blob/master/project-grafik.png)
 
 # Coursera JHU Exploratory Data Analysis Course Project-1 
-
+## Summary
+This assigment aims at providing the R code required for plotting 4 pre-defined plots
 
 ## Instructors
 The course is taught by: 
