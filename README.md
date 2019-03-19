@@ -1,3 +1,5 @@
+(https://github.com/jackatkott/Coursera-JHU-Exploratory-Data-Analysis-Course-Project-1-/blob/master/project-grafik.png)
+
 # Coursera JHU Exploratory Data Analysis Course Project-1 
 
 ## Introduction
