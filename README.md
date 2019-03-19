@@ -2,6 +2,14 @@
 
 # Coursera JHU Exploratory Data Analysis Course Project-1 
 
+
+## Instructors
+The course is taught by: 
+ 
+  - Jeff Leek, Phd 
+  - Roger D. Peng, Phd
+  - Brian Caffo, Phd
+
 ## Introduction
 
 This assignment uses data from
