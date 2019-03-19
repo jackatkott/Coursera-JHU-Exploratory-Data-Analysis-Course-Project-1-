@@ -2,7 +2,7 @@
 
 # Coursera JHU Exploratory Data Analysis Course Project-1 
 ## Summary
-This assigment aims at providing the R code required for plotting 4 pre-defined plots
+This assigment aims at providing the R code required for plotting 4 pre-defined plots.
 
 ## Instructors
 The course is taught by: 
